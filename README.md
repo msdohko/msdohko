@@ -1,8 +1,8 @@
 # Carlos Euardo Morais Hoiser
 
 <h3 align="left">Perfil no momento:</h3>
-- 🔭 Trabalhando com logística
-- 🌱 Estudando FullStack Python
+<p>- 🔭 Trabalhando com logística </p>
+<p>- 🌱 Estudando FullStack Python </p>
 
 <h3 align="left">Minhas Stacks</h3>
 <div tyle="display: inline_block">
