@@ -2,7 +2,7 @@
 
 <h3 align="left">Perfil no momento:</h3>
 <p>- 🔭 Trabalhando com logística </p>
-<p>- 🌱 Estudando Formação Java na Alura </p>
+<p>- 🌱 Formação Java na Alura </p>
 
 <h3 align="left">Minhas Stacks</h3>
 <div tyle="display: inline_block">
